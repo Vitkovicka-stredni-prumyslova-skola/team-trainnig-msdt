@@ -1,9 +1,13 @@
 namespace Corporate{
 
     class Company{
-        public static List<string>employees;
-        public Company(List<string>employess){
-            List<string>employees = new List<string>();
+        public static List<Employee>employees{get;private set;}
+        public Company(){
+            employees = new List<Employee>();
         }
+        public string AddEmployee(employee){
+            return employees.Add(employee);
+        }
+
     }
 }
