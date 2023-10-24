@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\MartinKapcala\\.nuget\\packages\\": {}
+    "C:\\Users\\DanielDubnický\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MartinKapcala\\OneDrive - Vítkovická střední průmyslová škola\\Dokumenty\\Programování\\OOP\\OOP-tym-template\\Corporate\\Corporate.csproj",
+      "projectUniqueName": "C:\\Users\\DanielDubnický\\github-classroom\\Vitkovicka-stredni-prumyslova-skola\\team-trainnig-msdt\\Corporate\\Corporate.csproj",
       "projectName": "Corporate",
-      "projectPath": "C:\\Users\\MartinKapcala\\OneDrive - Vítkovická střední průmyslová škola\\Dokumenty\\Programování\\OOP\\OOP-tym-template\\Corporate\\Corporate.csproj",
-      "packagesPath": "C:\\Users\\MartinKapcala\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MartinKapcala\\OneDrive - Vítkovická střední průmyslová škola\\Dokumenty\\Programování\\OOP\\OOP-tym-template\\Corporate\\obj\\",
+      "projectPath": "C:\\Users\\DanielDubnický\\github-classroom\\Vitkovicka-stredni-prumyslova-skola\\team-trainnig-msdt\\Corporate\\Corporate.csproj",
+      "packagesPath": "C:\\Users\\DanielDubnický\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\DanielDubnický\\github-classroom\\Vitkovicka-stredni-prumyslova-skola\\team-trainnig-msdt\\Corporate\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\MartinKapcala\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\DanielDubnický\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
