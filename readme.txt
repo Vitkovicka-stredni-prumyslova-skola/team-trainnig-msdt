@@ -18,6 +18,7 @@ Aplikace bude také obsahovat tři odvozené třídy od třídy Employee, které
 Manager - třída pro manažery, kteří mají navíc atribut teamSize - velikost týmu, který vedou. Tato třída bude mít také svůj vlastní konstruktor a přetíženou metodu ToString(), která zahrne i velikost týmu. Metoda GetBonus() bude vrátit 10% z platu plus 100 Kč za každého člena týmu.
 Developer - třída pro vývojáře, kteří mají navíc atribut language - programovací jazyk, ve kterém pracují. Tato třída bude mít také svůj vlastní konstruktor a přetíženou metodu ToString(), která zahrne i programovací jazyk. Metoda GetBonus() bude vrátit 15% z platu plus 500 Kč, pokud jazyk je "C#" nebo 300 Kč pro jiný jazyk.
 Salesperson - třída pro obchodníky, kteří mají navíc atribut sales - počet prodejů, které provedli. Tato třída bude mít také svůj vlastní konstruktor a přetíženou metodu ToString(), která zahrne i počet prodejů. Metoda GetBonus() bude vrátit 5% z platu plus 50 Kč za každý prodej.
+
 Aplikace bude také obsahovat třídu Company, která bude mít atribut employees - seznam zaměstnanců. Tato třída bude mít následující metody:
 Company() - konstruktor, který vytvoří prázdný seznam zaměstnanců
 AddEmployee(employee) - metoda, která přidá zaměstnance do seznamu
