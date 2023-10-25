@@ -1,4 +1,4 @@
-﻿﻿using System;
+﻿using System;
 using System.Data.Common;
 using System.Globalization;
 using System.Runtime.CompilerServices;
@@ -15,4 +15,3 @@ namespace Corporate{
     }
 
 }
-﻿
