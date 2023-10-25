@@ -42,7 +42,7 @@ namespace Corporate{
         public Employee(string name, int salary){
             this.name = name;
             this.salary = salary;
-            position = "Unknown";
+            this.position = "Unknown";
         }
 
         public override string ToString(){
