@@ -22,7 +22,7 @@ Salesperson - třída pro obchodníky, kteří mají navíc atribut sales - poč
 Aplikace bude také obsahovat třídu Company, která bude mít atribut employees - seznam zaměstnanců. Tato třída bude mít následující metody:
 Company() - konstruktor, který vytvoří prázdný seznam zaměstnanců
 AddEmployee(employee) - metoda, která přidá zaměstnance do seznamu
-RemoveEmployee(name) - metoda, která odstraní zaměstnance podle jména ze seznamu
+RemoveEmployee(Name) - metoda, která odstraní zaměstnance podle jména ze seznamu
 PrintEmployees() - metoda, která vypíše informace o všech zaměstnancích na konzoli
 PayBonuses() - metoda, která vypočte a zaplatí prémie všem zaměstnancům podle jejich typu a pozice
 Aplikace bude také obsahovat třídu Program, která bude mít metodu Main(), ve které se vytvoří instance třídy Company a několik instancí odvozených tříd od třídy Employee. Poté se zavolají metody třídy Company pro demonstraci funkčnosti aplikace.

@@ -62,5 +62,11 @@ namespace Corporate{
         public string AddEmployee(employee){
             return employees.Add(employee);
         }
+        public string RemoveEmployee(string Name){
+            if (Name != null){
+                int index = employees.IndexOf(Name);
+                return employees.RemoveAt(index);
+            }
+        }
     }
 }
