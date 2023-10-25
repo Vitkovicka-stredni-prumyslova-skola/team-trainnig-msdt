@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿using System;
 using System.Data.Common;
 using System.Globalization;
@@ -15,3 +16,6 @@ namespace Corporate{
     }
 
 }
+=======
+﻿
+>>>>>>> origin/Šimík
