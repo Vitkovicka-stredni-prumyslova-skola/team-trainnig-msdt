@@ -52,6 +52,7 @@ namespace Corporate{
         public int GetBonus(){
             return 0;
         }
+        
     }
 
 }
