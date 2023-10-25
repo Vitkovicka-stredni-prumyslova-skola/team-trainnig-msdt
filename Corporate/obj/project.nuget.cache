@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "b7oHDoM5QbNp6TNHVHm30Ip3Cgb1l6cxIyJIXZn50vRjXydvvUSlPSDp5We13/+cXYH6qMq2L3XMPsB/Gx2ZbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DanielDubnický\\github-classroom\\Vitkovicka-stredni-prumyslova-skola\\team-trainnig-msdt\\Corporate\\Corporate.csproj",
+=======
   "dgSpecHash": "53ShFCN1OKQQB3JHypGGlbaKEFC0WoAlzlo/NaPbT9/b+bauTE8gqRlzecHkPrwAELfo5NqeifBoN0NJawCOZA==",
   "success": true,
   "projectFilePath": "C:\\Users\\ŠimonŠnyta\\github-classroom\\Vitkovicka-stredni-prumyslova-skola\\team-trainnig-msdt\\Corporate\\Corporate.csproj",
+>>>>>>> origin/Šimík
   "expectedPackageFiles": [],
   "logs": []
 }
