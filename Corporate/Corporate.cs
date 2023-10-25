@@ -49,7 +49,7 @@ namespace Corporate{
             return $"Name: {Name}, Salary: {Salary}, Position: {Position}";
         }
 
-        public int GetBonus(){
+        public virtual int GetBonus(){
             return 0;
         }
     }
