@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 using System;
 using System.Data.Common;
 using System.Globalization;
@@ -54,10 +53,7 @@ namespace Corporate{
             return 0;
         }
     }
-
-=======
-namespace Corporate{
-
+    //Zde Ondra mrdne svůj kód
     class Company{
         public static List<Employee>employees{get;private set;}
         public Company(){
@@ -66,7 +62,5 @@ namespace Corporate{
         public string AddEmployee(employee){
             return employees.Add(employee);
         }
-
     }
->>>>>>> origin/Šimík
 }
