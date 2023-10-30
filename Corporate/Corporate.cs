@@ -53,20 +53,21 @@ namespace Corporate{
             return 0;
         }
     }
-    //Zde Ondra mrdne svůj kód
+    //Zde Ondra dá svůj kód
     class Company{
         public static List<Employee>employees{get;private set;}
         public Company(){
             employees = new List<Employee>();
         }
-        public string AddEmployee(employee){
-            return employees.Add(employee);
+        public void AddEmployee(Employee employee){
+            employees.Add(employee);
         }
-        public string RemoveEmployee(string Name){
+        public void RemoveEmployee(string Name){
             if (Name != null){
                 int index = employees.IndexOf(Name);
-                return employees.RemoveAt(index);
+                employees.RemoveAt(index);
             }
         }
     }
+
 }
