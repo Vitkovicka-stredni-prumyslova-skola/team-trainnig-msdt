@@ -74,7 +74,8 @@ namespace Corporate{
                 Console.WriteLine($"Jméno: {employee.Name}\nPozice: {employee.Position}\nPlat: {employee.Salary}");
             }
         }
-        public int PayBonuses(){
+        public string PayBonuses(){
+            
             //Pokud je pozice Manager tak dostává 10 % navíc ze svého platu + 100,- za každého člena týmů
             //Pokud je pozice Developer tak dostává 15 % navíc ze svého platu + 500,- za C# a 300,- za jiný
             //Pokud je pozice Salesperson tak dostává 5 % navíc ze svého platu + 50,- za každý prodej 
