@@ -8,8 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Corporate
-<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\DanielDubnický\github-classroom\Vitkovicka-stredni-prumyslova-skola\team-trainnig-msdt\Corporate\
-=======
-build_property.ProjectDir = C:\Users\ŠimonŠnyta\github-classroom\Vitkovicka-stredni-prumyslova-skola\team-trainnig-msdt\Corporate\
->>>>>>> origin/Šimík
