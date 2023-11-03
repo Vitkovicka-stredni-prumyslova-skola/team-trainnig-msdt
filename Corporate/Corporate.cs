@@ -71,10 +71,16 @@ namespace Corporate{
         }
         public void PrintEmployees(){
             foreach(var employee in employees){
-                Console.WriteLine($"Jméno: {employee.Name}\nPozice: {employee.Position}\nPlat: {employee.Salary}");
+                Console.WriteLine($"Name: {employee.Name}\nPosition: {employee.Position}\nSalary: {employee.Salary}");
             }
         }
         public string PayBonuses(){
+            for (int i = 0; i < employees.Count(); i++){
+               switch(employees[i].Position){
+                case "Manager":
+
+               }
+            }
             
             //Pokud je pozice Manager tak dostává 10 % navíc ze svého platu + 100,- za každého člena týmů
             //Pokud je pozice Developer tak dostává 15 % navíc ze svého platu + 500,- za C# a 300,- za jiný
