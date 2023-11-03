@@ -1,20 +1,28 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\DanielDubnický\\github-classroom\\Vitkovicka-stredni-prumyslova-skola\\team-trainnig-msdt\\Corporate\\Corporate.csproj": {}
+=======
+    "/Users/simonsnyta/github-classroom/Vitkovicka-stredni-prumyslova-skola/team-trainnig-msdt/Corporate/Corporate.csproj": {}
+>>>>>>> 5fe658c89080ef8793dee66ce7424d0c8ce903f8
   },
   "projects": {
-    "C:\\Users\\DanielDubnický\\github-classroom\\Vitkovicka-stredni-prumyslova-skola\\team-trainnig-msdt\\Corporate\\Corporate.csproj": {
+    "/Users/simonsnyta/github-classroom/Vitkovicka-stredni-prumyslova-skola/team-trainnig-msdt/Corporate/Corporate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DanielDubnický\\github-classroom\\Vitkovicka-stredni-prumyslova-skola\\team-trainnig-msdt\\Corporate\\Corporate.csproj",
+        "projectUniqueName": "/Users/simonsnyta/github-classroom/Vitkovicka-stredni-prumyslova-skola/team-trainnig-msdt/Corporate/Corporate.csproj",
         "projectName": "Corporate",
-        "projectPath": "C:\\Users\\DanielDubnický\\github-classroom\\Vitkovicka-stredni-prumyslova-skola\\team-trainnig-msdt\\Corporate\\Corporate.csproj",
-        "packagesPath": "C:\\Users\\DanielDubnický\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DanielDubnický\\github-classroom\\Vitkovicka-stredni-prumyslova-skola\\team-trainnig-msdt\\Corporate\\obj\\",
+        "projectPath": "/Users/simonsnyta/github-classroom/Vitkovicka-stredni-prumyslova-skola/team-trainnig-msdt/Corporate/Corporate.csproj",
+        "packagesPath": "/Users/simonsnyta/.nuget/packages/",
+        "outputPath": "/Users/simonsnyta/github-classroom/Vitkovicka-stredni-prumyslova-skola/team-trainnig-msdt/Corporate/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\DanielDubnický\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+          "/Users/simonsnyta/.nuget/NuGet/NuGet.Config"
+>>>>>>> 5fe658c89080ef8793dee66ce7424d0c8ce903f8
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
         }
       }
     }
