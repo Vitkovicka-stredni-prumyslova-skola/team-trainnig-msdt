@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "65QTRlIGKaRgDnHRjRvtGADnszOt2YlvRnPLxaWa52kvf6ryoZwRI2fvEXM5+rniVFfE1CK3XOLMhbKFwyPrVQ==",
+  "dgSpecHash": "LCioEeslsCEuunHh7EZJ3v6rRlEWEozAmkMlJo0R2c3Vj5BW5LLT3ujNC4WzTlUzzivpJnuhlRiUNeYYe+40Ww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ŠimonŠnyta\\github-classroom\\Vitkovicka-stredni-prumyslova-skola\\team-trainnig-msdt\\Corporate\\Corporate.csproj",
+  "projectFilePath": "C:\\Users\\DanielDubnický\\github-classroom\\Vitkovicka-stredni-prumyslova-skola\\team-trainnig-msdt\\Corporate\\Corporate.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\ŠimonŠnyta\\github-classroom\\Vitkovicka-stredni-prumyslova-skola\\team-trainnig-msdt\\Corporate\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }
