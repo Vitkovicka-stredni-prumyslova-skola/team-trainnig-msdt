@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\DanielDubnický\\github-classroom\\Vitkovicka-stredni-prumyslova-skola\\team-trainnig-msdt\\Corporate\\Corporate.csproj": {}
   },
   "projects": {
@@ -15,6 +16,22 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DanielDubnický\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+    "C:\\Users\\ŠimonŠnyta\\github-classroom\\Vitkovicka-stredni-prumyslova-skola\\team-trainnig-msdt\\Corporate\\Corporate.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ŠimonŠnyta\\github-classroom\\Vitkovicka-stredni-prumyslova-skola\\team-trainnig-msdt\\Corporate\\Corporate.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ŠimonŠnyta\\github-classroom\\Vitkovicka-stredni-prumyslova-skola\\team-trainnig-msdt\\Corporate\\Corporate.csproj",
+        "projectName": "Corporate",
+        "projectPath": "C:\\Users\\ŠimonŠnyta\\github-classroom\\Vitkovicka-stredni-prumyslova-skola\\team-trainnig-msdt\\Corporate\\Corporate.csproj",
+        "packagesPath": "C:\\Users\\ŠimonŠnyta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ŠimonŠnyta\\github-classroom\\Vitkovicka-stredni-prumyslova-skola\\team-trainnig-msdt\\Corporate\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ŠimonŠnyta\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> origin/Šimík
         ],
         "originalTargetFrameworks": [
           "net7.0"
